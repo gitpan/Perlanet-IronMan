@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>davblog</title>
+    <link rel="alternate" type="text/html" href="http://blog.dave.org.uk/" />
+    <link rel="self" type="application/atom+xml" href="http://blog.dave.org.uk/atom.xml" />
+    <id>tag:blog.dave.org.uk,2008-05-16://1</id>
+    <updated>2009-10-08T12:43:58Z</updated>
+    <subtitle>In which someone you&apos;ve never heard of writes about things you have no interest in</subtitle>
+    <generator uri="http://www.sixapart.com/movabletype/">Movable Type 4.32-en</generator>
+
+<entry>
+    <title>Updates from Jesusistan</title>
+    <link rel="alternate" type="text/html" href="http://blog.dave.org.uk/2009/10/updates-from-jesusistan.html" />
+    <id>tag:blog.dave.org.uk,2009://1.1564</id>
+
+    <published>2009-10-08T12:16:05Z</published>
+    <updated>2009-10-08T12:43:58Z</updated>
+
+    <summary>Time for a couple of snippets of news from those lovable nutters on the American religious right.Firstly, take a look at this. The artist has created a &quot;work of art&quot; which sums up his view of contemporary America. And it&apos;s...</summary>
+    <author>
+        <name>Dave Cross</name>
+        <uri>http://dave.org.uk/</uri>
+    </author>
+
+        <category term="religion" scheme="http://www.sixapart.com/ns/types#category" />
+
+    <category term="bible" label="bible" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="conservapedia" label="conservapedia" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="jesusistan" label="jesusistan" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="religion" label="religion" scheme="http://www.sixapart.com/ns/types#tag" />
+
+    <content type="html" xml:lang="en" xml:base="http://blog.dave.org.uk/">
+        <![CDATA[Time for a couple of snippets of news from those lovable nutters on the American religious right.<br /><br />Firstly, <a href="http://www.mcnaughtonart.com/artwork/view_zoom/?artpiece_id=353">take a look at this</a>. The artist has created a "work of art" which sums up his view of contemporary America. And it's a pretty weird view. Well, perhaps it's not so weird if you're looking through American Taliban glasses. But for sane people there are some pretty... er... interesting things there. Be sure to move your mouse over each person in the picture to see the artist's descriptions. I particularly enjoyed the college lecturer clutching at his copy of "On The Origin of Species". Oh, and what is Thomas Paine (a confirmed Deist) doing worshipping Jesus?<br /><br />[<b>Note:</b> Whilst writing this piece, I haven't been able to get a response from this web site. This picture has been the subject of much discussion on the web over the last few days. I think the web server isn't quite up to this level of interest.]<br /><br />Secondly, let's all have a good laugh at the latest project from the intellectual powerhouses behind <a href="http://conservapedia.com/">Conservapedia</a>. They've decided that they don't like the bible much. Well, it's not the bible that they don't like, so much as every available translation of it. You see people keep quoting inconvenient bits of it at them. Bits that make Jesus seem like a hippy. All that "love thy neighbour" nonsense and stuff about "turning the other cheek" - it's not really what a good conservative wants to read in his holy book.<br /><br />So when your holy book seems to be at odds with your ideals, what do you do? Changing your ideals is obviously out of the question. And you can't really start saying that your holy book is wrong, can you? They've picked on the weak link in the chain and have decided that all current translations are the results of liberal bias and are not to be trusted. And they've set up the <a href="http://conservapedia.com/Conservative_Bible_Project">Conservative Bible Project</a> to produce their own translation of the bible. They're starting with the King James Version correcting the bits that contradict their philosophy. You can keep up with their <a href="http://conservapedia.com/Conservative_Bible">work online</a>.<br /><br />I'm following closely. I'm particularly looking forward to <a href="http://conservapedia.com/Matthew_10-19_%28Translated%29#Chapter_19">their translation</a> of <a href="http://www.biblegateway.com/passage/?search=Matthew+19:24&amp;version=KJV">Matthew 19:24</a>. It's not there yet.<br /><br />I wish them luck with the project. I'm sure it will be a ripe seam of comedy in the coming months.<br />]]>
+
+    </content>
+</entry>
+
+</feed>

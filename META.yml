@@ -1,0 +1,33 @@
+---
+abstract: 'IronMan specific instance of Perlanet'
+author:
+  - 'Enlightened Perl Organisation'
+build_requires:
+  Test::More: 0
+configure_requires:
+  ExtUtils::MakeMaker: 6.31
+dynamic_config: 0
+generated_by: 'Dist::Zilla version 4.101550, CPAN::Meta::Converter version 2.101461'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: Perlanet-IronMan
+requires:
+  Carp: 0
+  Data::Dumper: 0
+  FindBin: 0
+  Getopt::Long: 0
+  HTML::Truncate: 0
+  IronMan::Schema: 0
+  Moose: 0
+  Perlanet: 0
+  Perlanet::Entry: 0
+  Perlanet::Feed: 0
+  Perlanet::Trait::Scrubber: 0
+  Perlanet::Trait::Tidy: 0
+  Pod::Usage: 0
+  Try::Tiny: 0
+  XML::Feed: 0
+  perl: 5.8.0
+version: 0.02_01
